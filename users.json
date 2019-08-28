@@ -1,0 +1,89 @@
+{
+	"Noname": {
+		"login": "Noname",
+		"description": "gg wp",
+		"game": "League of Legends",
+		"viewers": 6666,
+		"logo": "lol-logo.jpg",
+		"alt": "lol-logo",
+		"streamPreview": "lol-stream.jpg",
+		"gameBrand": "lol-brand.jpg"
+	},
+
+	"pachaBiceps": {
+		"login": "pachaBiceps",
+		"description": "BICEEEEEPSSSS",
+		"game": "Counter strike 1.6",
+		"viewers": 101112,
+		"logo": "counter-logo.png",
+		"alt": "counter-logo",
+		"streamPreview": "counter-stream.jpg",
+		"gameBrand": "counter-brand.jpg"
+	},
+
+	"grecdev": {
+		"login": "grecdev",
+		"description": "I hate Javascript",
+		"game": "World of Warcraft",
+		"viewers": 8910,
+		"logo": "wow-logo.jpg",
+		"alt": "wow-logo",
+		"streamPreview": "wow-stream.jpg",
+		"gameBrand": "wow-brand.jpg"
+	},
+
+	"Pewdiepie": {
+		"login": "Pewdiepie",
+		"description": "Hello World",
+		"game": "SMITE",
+		"viewers": 678,
+		"logo": "avatar1.jpg",
+		"alt": "avatar1-brand",
+		"streamPreview": "smite-stream.jpg",
+		"gameBrand": "smite-brand.jpg"
+	},
+
+	"Jathansapus": {
+		"login": "Jathansapus",
+		"description": "Rekt them",
+		"game": "Apex Legends",
+		"viewers": 567,
+		"logo": "avatar1.jpg",
+		"alt": "avatar1-brand",
+		"streamPreview": "apex-stream.jpg",
+		"gameBrand": "apex-brand.jpg"
+	},
+
+	"swifty": {
+		"login": "swifty",
+		"description": "Some kills today ?",
+		"game": "PUBG",
+		"viewers": 456,
+		"logo": "avatar2.jpg",
+		"alt": "avatar2-brand",
+		"streamPreview": "pubg-stream.jpg",
+		"gameBrand": "pubg-brand.jpg"
+	},
+
+	"Floyd Mayweather": {
+		"login": "Floyd Mayweather",
+		"description": "YEEEAAAAAA",
+		"game": "Paladins",
+		"viewers": 345,
+		"logo": "avatar3.jpg",
+		"alt": "avatar3-brand",
+		"streamPreview": "paladins-stream.jpg",
+		"gameBrand": "paladins-brand.jpg"
+	},
+
+	"Connor McGregor": {
+		"login": "Connor McGregor",
+		"description": "You'll do nothin'",
+		"game": "UFC",
+		"viewers": 123,
+		"logo": "ufc-logo.jpg",
+		"alt": "ufc-logo",
+		"streamPreview": "ufc-stream.jpg",
+		"gameBrand": "ufc-brand.jpg"
+	}
+}
