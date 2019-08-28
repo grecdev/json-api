@@ -37,8 +37,8 @@
 		"description": "Hello World",
 		"game": "SMITE",
 		"viewers": 678,
-		"logo": "avatar1.jpg",
-		"alt": "avatar1-brand",
+		"logo": "logoMin.png",
+		"alt": "logoMin-brand",
 		"streamPreview": "smite-stream.jpg",
 		"gameBrand": "smite-brand.jpg"
 	},
@@ -48,8 +48,8 @@
 		"description": "Rekt them",
 		"game": "Apex Legends",
 		"viewers": 567,
-		"logo": "avatar1.jpg",
-		"alt": "avatar1-brand",
+		"logo": "logoMin.png",
+		"alt": "logoMin-brand",
 		"streamPreview": "apex-stream.jpg",
 		"gameBrand": "apex-brand.jpg"
 	},
@@ -59,8 +59,8 @@
 		"description": "Some kills today ?",
 		"game": "PUBG",
 		"viewers": 456,
-		"logo": "avatar2.jpg",
-		"alt": "avatar2-brand",
+		"logo": "logoMin2.png",
+		"alt": "logoMin2-brand",
 		"streamPreview": "pubg-stream.jpg",
 		"gameBrand": "pubg-brand.jpg"
 	},
@@ -70,8 +70,8 @@
 		"description": "YEEEAAAAAA",
 		"game": "Paladins",
 		"viewers": 345,
-		"logo": "avatar3.jpg",
-		"alt": "avatar3-brand",
+		"logo": "logoMin3.png",
+		"alt": "logoMin3-brand",
 		"streamPreview": "paladins-stream.jpg",
 		"gameBrand": "paladins-brand.jpg"
 	},
