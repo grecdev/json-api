@@ -3,37 +3,37 @@
 		{
 		"name": "HAM & BACON",
 		"incredients": "Tomato sauce, Mozzarella cheese, bacon, ham, mushrooms, cubed tomatoes, corn, parmesan, fresh basil",
-		"price": "40,50 $"
+		"price": "40.50 $"
 		},
 
 		{
 		"name": "Roast Veggie<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Tomato sauce, mozzarella cheese, baked zucchini, red peppers, mushrooms, red onion, oregano and fresh basil",
-		"price": "31,00 $"
+		"price": "31.00 $"
 		},
 
 		{
 		"name": "NEVADA",
 		"incredients": "Tomato sauce, Mozzarella cheese, ham, bacon, mushrooms, bell peppers, olives",
-		"price": "19,00 $"
+		"price": "19.00 $"
 		},
 
 		{
 		"name": "SUPREM<span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Tomato sauce, Mozzarella cheese, beef cubes, pepperoni salami, mushrooms, bell peppers, red onion",
-		"price": "20,50 $"
+		"price": "20.50 $"
 		},
 
 		{
 		"name": "QUATTRO FORMAGGI<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Mozzarella cheese, Emmentaler, Cheddar, Gorgonzola, oregano",
-		"price": "43,00 $"
+		"price": "43.00 $"
 		},
 
 		{
 		"name": "AMERICAN SPICY<span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Mozzarella cheese, Emmentaler, Cheddar, Gorgonzola, oregano",
-		"price": "37,50 $"
+		"price": "37.50 $"
 		}
 	],
 
@@ -41,37 +41,37 @@
 		{
 		"name": "TEXAS BURGER<span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Beef, Samourai sauce, Cheddar cheese, red salsa, nachos, fluffy bread with flavored butter",
-		"price": "32,00 $"
+		"price": "32.00 $"
 		},
 
 		{
 		"name": "PESTO BURGER",
 		"incredients": "Beef, pesto sauce, Andalouse sauce, fresh Mozzarella, sliced ​​tomatoes, fresh basil, fluffy bread with flavored butter",
-		"price": "31,25 $"
+		"price": "31.25 $"
 		},
 
 		{
 		"name": "CLASSIC BURGER",
 		"incredients": "Beef, Chili Mayo sauce, Iceberg salad, sliced ​​tomatoes, red onion, fluffy bread with flavored butter",
-		"price": "25,50 $"
+		"price": "25.50 $"
 		},
 
 		{
 		"name": "CHEESBURGER",
 		"incredients": "Beef, Chili Mayo sauce, Cheddar cheese, Iceberg salad, sliced ​​tomatoes, red onion, fluffy bread with flavored butter",
-		"price": "27,50 $"
+		"price": "27.50 $"
 		},
 
 		{
 		"name": "VEGGIE BURGER<span class='vegetarian-food'><i class='fab fa-envira'></i></span><span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Feta cheese, Aglio Olio sauce, fresh spinach, salsa with guacamole, Andalusian sauce, fluffy bread with flavored butter",
-		"price": "31,00 $"
+		"price": "31.00 $"
 		},
 
 		{
 		"name": "TENNESSEE BURGER",
 		"incredients": "2 pieces of beef, red salsa, avocado, chili mayo sauce, cheddar cheese, arugula, fluffy bread with flavored butter",
-		"price": "37,00 $"
+		"price": "37.00 $"
 		}
 	],
 
@@ -79,37 +79,37 @@
 		{
 		"name": "MAC & CHEESE PASTA<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Macaroni, Cheddar and Parmesan cheese, cream and butter sauce, hazelnut",
-		"price": "24,00 $"
+		"price": "24.00 $"
 		},
 
 		{
 		"name": "TOMATO CHILI PASTA<span class='vegetarian-food'><i class='fab fa-envira'></i></span><span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Spaghetti in tomato sauce, Aglio Olio sauce, cherry tomatoes, parmesan, fresh basil.",
-		"price": "22,37 $"
+		"price": "22.37 $"
 		},
 
 		{
 		"name": "CHEESY BACON PASTA (AL FORNO)",
 		"incredients": "Penne in wine sauce with Aglio Olio sauce, bacon, tomatoes, mushrooms, onions, peppers, cheddar cheese and parmesan",
-		"price": "29,00 $"
+		"price": "29.00 $"
 		},
 
 		{
 		"name": "CHICKEN PASTA",
 		"incredients": "Penne in wine sauce with cream and green pesto, chicken strips, parmesan strips and fresh basil",
-		"price": "33,99 $"
+		"price": "33.99 $"
 		},
 
 		{
 		"name": "SPAGHETTI BOLOGNESE",
 		"incredients": "Spaghetti with ragu sauce, pieces of beef, cubed tomatoes, red onion, Parmesan, basil.",
-		"price": "10,00 $"
+		"price": "10.00 $"
 		},
 
 		{
 		"name": "SPAGHETTI AGLIO E OLIO CON FUNGHI<span class='vegetarian-food'><i class='fab fa-envira'></i></span><span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Spaghetti in Aglio Olio sauce, mushrooms, garlic, marinated cherry tomatoes, olive oil, fresh basil",
-		"price": "20,00 $"
+		"price": "20.00 $"
 		}
 	],
 
@@ -117,62 +117,62 @@
 		{
 		"name": "PINEAPPLE CHICKEN SALAD",
 		"incredients": "Baby spinach leaves, chicken, pineapple, crispy bacon, marinated cherry tomatoes, sesame seeds, lime sauce & Sweet Chili",
-		"price": "30,00 $"
+		"price": "30.00 $"
 		},
 
 		{
 		"name": "CAESAR SALAD",
 		"incredients": "Iceberg salad, grilled chicken breast, marinated cherry tomatoes, slices of bacon, Caesar sauce with anchovy, strips of parmesan. It is served with croutons.",
-		"price": "26,12 $"
+		"price": "26.12 $"
 		},
 
 		{
 		"name": "GREC (greek) SALAD<span class='vegetarian-food'><i class='fab fa-envira'></i></span><span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Marinated cherry tomatoes, cucumbers, green olives, red onion, red peppers, Feta cheese, oregano, fresh basil, Aglio Olio sauce",
-		"price": "24,50 $"
+		"price": "24.50 $"
 		},
 
 		{
 		"name": "CAPRESE<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Tomatoes, fresh Mozzarella, basil, pesto sauce, balsamic vinegar",
-		"price": "13,00 $"
+		"price": "13.00 $"
 		}
 	],
 	"drink": [
 		{
 		"name": "WATER",
 		"incredients": "from the mountains",
-		"price": "2,00 $"
+		"price": "2.00 $"
 		},
 
 		{
 		"name": "COCA-COLA",
 		"incredients": "can make you superman",
-		"price": "3 $"
+		"price": "3.00 $"
 		},
 
 		{
 		"name": "SPRITE",
 		"incredients": "not for drugs kids",
-		"price": "2,50 $"
+		"price": "2.50 $"
 		},
 
 		{
 		"name": "FANTA",
 		"incredients": "Bacon ipsum dolor amet ullamco aliquip excepteur chicken tail.",
-		"price": "3,50 $"
+		"price": "3.50 $"
 		},
 
 		{
 		"name": "BEER",
 		"incredients": "over 21",
-		"price": "5,34 $"
+		"price": "5.34 $"
 		},
 
 		{
 		"name": "VODKA",
 		"incredients": "i don't know what others drinks to add",
-		"price": "10,15 $"
+		"price": "10.15 $"
 		}
 	]
 }
