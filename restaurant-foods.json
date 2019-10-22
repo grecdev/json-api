@@ -5,6 +5,7 @@
 		"incredients": "Tomato sauce, Mozzarella cheese, bacon, ham, mushrooms, cubed tomatoes, corn, parmesan, fresh basil",
 		"price": "40,50 $"
 		},
+
 		{
 		"name": "Roast Veggie<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Tomato sauce, mozzarella cheese, baked zucchini, red peppers, mushrooms, red onion, oregano and fresh basil",
@@ -135,6 +136,43 @@
 		"name": "CAPRESE<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Tomatoes, fresh Mozzarella, basil, pesto sauce, balsamic vinegar",
 		"price": "13 $"
+		}
+	],
+	"drink": [
+		{
+		"name": "WATER",
+		"incredients": "",
+		"price": "2,00 $"
+		},
+
+		{
+		"name": "COCA-COLA",
+		"incredients": "",
+		"price": "3 $"
+		},
+
+		{
+		"name": "SPRITE",
+		"incredients": "",
+		"price": "2,50 $"
+		},
+
+		{
+		"name": "FANTA",
+		"incredients": "",
+		"price": "3 $"
+		},
+
+		{
+		"name": "BEER",
+		"incredients": "",
+		"price": "5 $"
+		},
+
+		{
+		"name": "VODKA",
+		"incredients": "",
+		"price": "10 $"
 		}
 	]
 }
