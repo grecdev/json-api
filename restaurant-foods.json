@@ -141,37 +141,37 @@
 	"drink": [
 		{
 		"name": "WATER",
-		"incredients": "",
+		"incredients": "from the mountains",
 		"price": "2,00 $"
 		},
 
 		{
 		"name": "COCA-COLA",
-		"incredients": "",
+		"incredients": "can make you superman",
 		"price": "3 $"
 		},
 
 		{
 		"name": "SPRITE",
-		"incredients": "",
+		"incredients": "not for drugs kids",
 		"price": "2,50 $"
 		},
 
 		{
 		"name": "FANTA",
-		"incredients": "",
+		"incredients": "Bacon ipsum dolor amet ullamco aliquip excepteur chicken tail.",
 		"price": "3 $"
 		},
 
 		{
 		"name": "BEER",
-		"incredients": "",
+		"incredients": "over 21",
 		"price": "5 $"
 		},
 
 		{
 		"name": "VODKA",
-		"incredients": "",
+		"incredients": "i don't know what others drinks to add",
 		"price": "10 $"
 		}
 	]
