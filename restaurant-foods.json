@@ -47,7 +47,7 @@
 		{
 		"name": "PESTO BURGER",
 		"incredients": "Beef, pesto sauce, Andalouse sauce, fresh Mozzarella, sliced ​​tomatoes, fresh basil, fluffy bread with flavored butter",
-		"price": "31 $"
+		"price": "31,25 $"
 		},
 
 		{
@@ -85,19 +85,19 @@
 		{
 		"name": "TOMATO CHILI PASTA<span class='vegetarian-food'><i class='fab fa-envira'></i></span><span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Spaghetti in tomato sauce, Aglio Olio sauce, cherry tomatoes, parmesan, fresh basil.",
-		"price": "22 $"
+		"price": "22,37 $"
 		},
 
 		{
 		"name": "CHEESY BACON PASTA (AL FORNO)",
 		"incredients": "Penne in wine sauce with Aglio Olio sauce, bacon, tomatoes, mushrooms, onions, peppers, cheddar cheese and parmesan",
-		"price": "29 $"
+		"price": "29,00 $"
 		},
 
 		{
 		"name": "CHICKEN PASTA",
 		"incredients": "Penne in wine sauce with cream and green pesto, chicken strips, parmesan strips and fresh basil",
-		"price": "33 $"
+		"price": "33,99 $"
 		},
 
 		{
@@ -123,7 +123,7 @@
 		{
 		"name": "CAESAR SALAD",
 		"incredients": "Iceberg salad, grilled chicken breast, marinated cherry tomatoes, slices of bacon, Caesar sauce with anchovy, strips of parmesan. It is served with croutons.",
-		"price": "26 $"
+		"price": "26,12 $"
 		},
 
 		{
@@ -135,7 +135,7 @@
 		{
 		"name": "CAPRESE<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Tomatoes, fresh Mozzarella, basil, pesto sauce, balsamic vinegar",
-		"price": "13 $"
+		"price": "13,00 $"
 		}
 	],
 	"drink": [
@@ -160,19 +160,19 @@
 		{
 		"name": "FANTA",
 		"incredients": "Bacon ipsum dolor amet ullamco aliquip excepteur chicken tail.",
-		"price": "3 $"
+		"price": "3,50 $"
 		},
 
 		{
 		"name": "BEER",
 		"incredients": "over 21",
-		"price": "5 $"
+		"price": "5,34 $"
 		},
 
 		{
 		"name": "VODKA",
 		"incredients": "i don't know what others drinks to add",
-		"price": "10 $"
+		"price": "10,15 $"
 		}
 	]
 }
