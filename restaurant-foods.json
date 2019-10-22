@@ -3,12 +3,12 @@
 		{
 		"name": "HAM & BACON",
 		"incredients": "Tomato sauce, Mozzarella cheese, bacon, ham, mushrooms, cubed tomatoes, corn, parmesan, fresh basil",
-		"price": "20,50 / 34,00 / 40,50 $"
+		"price": "40,50 $"
 		},
 		{
 		"name": "Roast Veggie<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Tomato sauce, mozzarella cheese, baked zucchini, red peppers, mushrooms, red onion, oregano and fresh basil",
-		"price": "19,00 / 31,00 / 38,00 $"
+		"price": "31,00 $"
 		},
 
 		{
@@ -20,19 +20,19 @@
 		{
 		"name": "SUPREM<span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Tomato sauce, Mozzarella cheese, beef cubes, pepperoni salami, mushrooms, bell peppers, red onion",
-		"price": "20,50 / 34,00 / 40,50 $"
+		"price": "20,50 $"
 		},
 
 		{
 		"name": "QUATTRO FORMAGGI<span class='vegetarian-food'><i class='fab fa-envira'></i></span>",
 		"incredients": "Mozzarella cheese, Emmentaler, Cheddar, Gorgonzola, oregano",
-		"price": "22,50 / 37,50 / 43,00 $"
+		"price": "43,00 $"
 		},
 
 		{
 		"name": "AMERICAN SPICY<span class='spicy-food'><i class='fas fa-pepper-hot'></i></span>",
 		"incredients": "Mozzarella cheese, Emmentaler, Cheddar, Gorgonzola, oregano",
-		"price": "22,50 / 37,50 / 43,00 $"
+		"price": "37,50 $"
 		}
 	],
 
