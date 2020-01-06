@@ -1,0 +1,42 @@
+[
+	{
+		"roomType": "hotel",
+		"roomName": "Luxury Room",
+		"roomFeedback": "",
+		"availability": 4,
+		"meals": [
+			"All inclusive"
+		],
+		"price": 650,
+		"locationServices": {
+			"Food&Drink": [
+				"Breakfast",
+				"Lunch",
+				"Dinner"
+			]
+		},
+		"roomServices": {
+			"Media/Technologies": [
+				"TV Cable",
+				"Internet Connection / WI-FI"
+			],
+			"Front-desk/reception area services": [],
+			"Foods/Drinks": [
+				"Minibar (surcharge)",
+				"Refrigerator",
+				"Electric kettle"
+			],
+			"roomFacilties": [
+				"Air Conditioner",
+				"Family Room",
+				"Kitchenette",
+				"Balcony",
+				"Pets allowed",
+				"Close to the beach",
+				"Double Bathrooms",
+				"Room Service (24 hours)",
+				"Daily Housekeeping"
+			]
+		}
+	}
+]
