@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"id": 1,
 		"roomType": "hotel",
 		"roomName": "Luxury Room",
@@ -49,8 +48,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "3:00 PM",
-		"checkOut": "11:00 AM",
+		"checkInHour": "3:00 PM",
+		"checkOutHour": "11:00 AM",
+		"checkInStart": "17 / 09 / 2020",
+		"checkInEnd": "17 / 09 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -87,8 +88,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "8:00 PM",
-		"checkOut": "6:00 AM",
+		"checkInHour": "8:00 PM",
+		"checkOutHour": "6:00 AM",
+		"checkInStart": "03 / 01 / 2020",
+		"checkInEnd": "12 / 04 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -122,8 +125,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "12:00 PM",
-		"checkOut": "12:00 AM",
+		"checkInHour": "12:00 PM",
+		"checkOutHour": "12:00 AM",
+		"checkInStart": "12 / 04 / 2020",
+		"checkInEnd": "11 / 07 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -165,8 +170,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "1:00 PM",
-		"checkOut": "6:00 AM",
+		"checkInHour": "1:00 PM",
+		"checkOutHour": "6:00 AM",
+		"checkInStart": "12 / 02 / 2020",
+		"checkInEnd": "12 / 02 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -206,8 +213,10 @@
 			],
 			"servicesExtras": []
 		},
-		"checkIn": "5:00 AM",
-		"checkOut": "4:00 PM",
+		"checkInHour": "5:00 AM",
+		"checkOutHour": "4:00 PM",
+		"checkInStart": "07 / 02 / 2020",
+		"checkInEnd": "12 / 02 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -258,8 +267,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "12:00 PM",
-		"checkOut": "12:00 AM",
+		"checkInHour": "12:00 PM",
+		"checkOutHour": "12:00 AM",
+		"checkInStart": "13 / 01 / 2020",
+		"checkInEnd": "12 / 11 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -310,8 +321,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "3:00 PM",
-		"checkOut": "11:00 AM",
+		"checkInHour": "3:00 PM",
+		"checkOutHour": "11:00 AM",
+		"checkInStart": "25 / 02 / 2020",
+		"checkInEnd": "11 / 08 / 2022",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -372,8 +385,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "3:00 PM",
-		"checkOut": "3:00 AM",
+		"checkInHour": "3:00 PM",
+		"checkOutHour": "3:00 AM",
+		"checkInStart": "31 / 07 / 2020",
+		"checkInEnd": "01 / 12 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -415,8 +430,10 @@
 				"Daily housekeeping"
 			]
 		},
-		"checkIn": "3:00 AM",
-		"checkOut": "1:00 PM",
+		"checkInHour": "3:00 AM",
+		"checkOutHour": "1:00 PM",
+		"checkInStart": "06 / 04 / 2020",
+		"checkInEnd": "31 / 03 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -459,8 +476,10 @@
 				"Daily Housekeeping"
 			]
 		},
-		"checkIn": "8:00 PM",
-		"checkOut": "6:00 AM",
+		"checkInHour": "8:00 PM",
+		"checkOutHour": "6:00 AM",
+		"checkInStart": "12 / 04 / 2020",
+		"checkInEnd": "26 / 10 / 2021",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -511,8 +530,10 @@
 				"Room Service (24 hours)"
 			]
 		},
-		"checkIn": "6:00 PM",
-		"checkOut": "6:00 AM",
+		"checkInHour": "6:00 PM",
+		"checkOutHour": "6:00 AM",
+		"checkInStart": "01 / 01 / 2020",
+		"checkInEnd": "01 / 12 / 2020",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	},
 	{
@@ -571,8 +592,10 @@
 				"Room Service (24 hours)"
 			]
 		},
-		"checkIn": "2:00 AM",
-		"checkOut": "10:00 PM",
+		"checkInHour": "2:00 AM",
+		"checkOutHour": "10:00 PM",
+		"checkInStart": "01 / 10 / 2020",
+		"checkInEnd": "05 / 10 / 2020",
 		"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quibusdam, corrupti provident, recusandae eveniet obcaecati aliquam soluta fugit officiis laborum fugiat aperiam rem sit! Suscipit aliquid consequatur, ratione sequi facilis quaerat corrupti vero. Hic et voluptatum ad alias dolorem repudiandae, dolor expedita reiciendis neque dolorum quisquam officiis nam, eligendi laudantium magni voluptate eaque at, eos quas fugit? Maxime ullam ad tenetur quas at officia tempora ipsam, quisquam nihil doloremque inventore quidem dignissimos velit aspernatur qui quam modi! Illum voluptates facilis dignissimos voluptate impedit iste fugiat totam unde commodi porro accusantium maxime beatae, ex eveniet. Officia aliquid maiores ut veniam quod."
 	}
 ]
