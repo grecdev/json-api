@@ -142,7 +142,7 @@
 		"destination": "Barcelona",
 		"roomFeedback": 4,
 		"availability": 5,
-		"people": 3,
+		"people": 2,
 		"price": 300,
 		"locationServices": {
 			"foodDrink": [
@@ -188,7 +188,7 @@
 		"destination": "Dubai",
 		"roomFeedback": 5,
 		"availability": 3,
-		"people": 3,
+		"people": 2,
 		"price": 550,
 		"locationServices": {
 			"foodDrink": [
@@ -232,7 +232,7 @@
 		"destination": "Amsterdam",
 		"roomFeedback": 2,
 		"availability": 1,
-		"people": 3,
+		"people": 2,
 		"price": 300,
 		"locationServices": {
 			"foodDrink": [
@@ -287,7 +287,7 @@
 		"destination": "Thailand",
 		"roomFeedback": 3,
 		"availability": 7,
-		"people": 5,
+		"people": 3,
 		"price": 430,
 		"locationServices": {
 			"foodDrink": [
@@ -342,7 +342,7 @@
 		"destination": "Barcelona",
 		"roomFeedback": 4,
 		"availability": 7,
-		"people": 5,
+		"people": 3,
 		"price": 430,
 		"locationServices": {
 			"foodDrink": [
@@ -407,7 +407,7 @@
 		"destination": "Dubai",
 		"roomFeedback": 3,
 		"availability": 5,
-		"people": 5,
+		"people": 3,
 		"price": 200,
 		"locationServices": {
 			"foodDrink": [
@@ -453,7 +453,7 @@
 		"destination": "Amsterdam",
 		"roomFeedback": 4,
 		"availability": 2,
-		"people": 7,
+		"people": 4,
 		"price": 550,
 		"locationServices": {
 			"foodDrink": [
@@ -500,7 +500,7 @@
 		"destination": "Thailand",
 		"roomFeedback": 3,
 		"availability": 1,
-		"people": 7,
+		"people": 4,
 		"price": 450,
 		"locationServices": {
 			"foodDrink": [
@@ -555,7 +555,7 @@
 		"destination": "Barcelona",
 		"roomFeedback": 4,
 		"availability": 3,
-		"people": 7,
+		"people": 4,
 		"price": 1000,
 		"locationServices": {
 			"foodDrink": [
