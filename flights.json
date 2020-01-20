@@ -67,7 +67,7 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"landing": "Amsterdam",
+		"departure": "Amsterdam",
 		"abbr": "AMS",
 		"people": 3
 	},
@@ -85,7 +85,7 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"landing": "Amsterdam",
+		"departure": "Amsterdam",
 		"abbr": "AMS",
 		"people": 2
 	},
@@ -103,7 +103,7 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"landing": "Amsterdam",
+		"departure": "Amsterdam",
 		"abbr": "AMS",
 		"people": 1
 	},
@@ -175,7 +175,7 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"landing": "Thailand",
+		"departure": "Thailand",
 		"abbr": "BKK",
 		"people": 5
 	},
@@ -193,7 +193,7 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"landing": "Thailand",
+		"departure": "Thailand",
 		"abbr": "BKK",
 		"people": 3
 	},
@@ -211,7 +211,7 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"landing": "Thailand",
+		"departure": "Thailand",
 		"abbr": "BKK",
 		"people": 2
 	}
