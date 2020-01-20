@@ -13,8 +13,9 @@
 		"intervalStart": 9,
 		"intervalEnd": 13,
 		"class": "Economy",
-		"destination": "Dubai",
-		"abbr": "DXB"
+		"departure": "Dubai",
+		"abbr": "DXB",
+		"people": 4
 	},
 	{
 		"id": 2,
@@ -30,8 +31,9 @@
 		"intervalStart": 9,
 		"intervalEnd": 13,
 		"class": "Economy",
-		"destination": "Dubai",
-		"abbr": "DXB"
+		"departure": "Dubai",
+		"abbr": "DXB",
+		"people": 4
 	},
 	{
 		"id": 3,
@@ -47,8 +49,9 @@
 		"intervalStart": 9,
 		"intervalEnd": 13,
 		"class": "Economy",
-		"destination": "Dubai",
-		"abbr": "DXB"
+		"departure": "Dubai",
+		"abbr": "DXB",
+		"people": 4
 	},
 	{
 		"id": 4,
@@ -64,8 +67,9 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"destination": "Amsterdam",
-		"abbr": "AMS"
+		"landing": "Amsterdam",
+		"abbr": "AMS",
+		"people": 3
 	},
 	{
 		"id": 5,
@@ -81,8 +85,9 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"destination": "Amsterdam",
-		"abbr": "AMS"
+		"landing": "Amsterdam",
+		"abbr": "AMS",
+		"people": 2
 	},
 	{
 		"id": 6,
@@ -98,8 +103,9 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"destination": "Amsterdam",
-		"abbr": "AMS"
+		"landing": "Amsterdam",
+		"abbr": "AMS",
+		"people": 1
 	},
 	{
 		"id": 7,
@@ -115,8 +121,9 @@
 		"intervalStart": 13,
 		"intervalEnd": 17,
 		"class": "Economy Premium",
-		"destination": "New York",
-		"abbr": "JFK"
+		"departure": "New York",
+		"abbr": "JFK",
+		"people": 4
 	},
 	{
 		"id": 8,
@@ -132,8 +139,9 @@
 		"intervalStart": 13,
 		"intervalEnd": 17,
 		"class": "Economy Premium",
-		"destination": "New York",
-		"abbr": "JFK"
+		"departure": "New York",
+		"abbr": "JFK",
+		"people": 1
 	},
 	{
 		"id": 9,
@@ -149,8 +157,9 @@
 		"intervalStart": 13,
 		"intervalEnd": 17,
 		"class": "Economy Premium",
-		"destination": "New York",
-		"abbr": "JFK"
+		"departure": "New York",
+		"abbr": "JFK",
+		"people": 2
 	},
 	{
 		"id": 10,
@@ -166,8 +175,9 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"destination": "Thailand",
-		"abbr": "BKK"
+		"landing": "Thailand",
+		"abbr": "BKK",
+		"people": 5
 	},
 	{
 		"id": 11,
@@ -183,8 +193,9 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"destination": "Thailand",
-		"abbr": "BKK"
+		"landing": "Thailand",
+		"abbr": "BKK",
+		"people": 3
 	},
 	{
 		"id": 12,
@@ -200,7 +211,8 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"destination": "Thailand",
-		"abbr": "BKK"
+		"landing": "Thailand",
+		"abbr": "BKK",
+		"people": 2
 	}
 ]
