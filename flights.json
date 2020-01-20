@@ -13,7 +13,8 @@
 		"intervalStart": 9,
 		"intervalEnd": 13,
 		"class": "Economy",
-		"destination": "Dubai"
+		"destination": "Dubai",
+		"abbr": "DXB"
 	},
 	{
 		"id": 2,
@@ -29,7 +30,8 @@
 		"intervalStart": 9,
 		"intervalEnd": 13,
 		"class": "Economy",
-		"destination": "Dubai"
+		"destination": "Dubai",
+		"abbr": "DXB"
 	},
 	{
 		"id": 3,
@@ -45,7 +47,8 @@
 		"intervalStart": 9,
 		"intervalEnd": 13,
 		"class": "Economy",
-		"destination": "Dubai"
+		"destination": "Dubai",
+		"abbr": "DXB"
 	},
 	{
 		"id": 4,
@@ -61,7 +64,8 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"destination": "Amsterdam"
+		"destination": "Amsterdam",
+		"abbr": "AMS"
 	},
 	{
 		"id": 5,
@@ -77,7 +81,8 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"destination": "Amsterdam"
+		"destination": "Amsterdam",
+		"abbr": "AMS"
 	},
 	{
 		"id": 6,
@@ -93,7 +98,8 @@
 		"intervalStart": 2,
 		"intervalEnd": 10,
 		"class": "Business",
-		"destination": "Amsterdam"
+		"destination": "Amsterdam",
+		"abbr": "AMS"
 	},
 	{
 		"id": 7,
@@ -109,7 +115,8 @@
 		"intervalStart": 13,
 		"intervalEnd": 17,
 		"class": "Economy Premium",
-		"destination": "New York"
+		"destination": "New York",
+		"abbr": "JFK"
 	},
 	{
 		"id": 8,
@@ -125,7 +132,8 @@
 		"intervalStart": 13,
 		"intervalEnd": 17,
 		"class": "Economy Premium",
-		"destination": "New York"
+		"destination": "New York",
+		"abbr": "JFK"
 	},
 	{
 		"id": 9,
@@ -141,7 +149,8 @@
 		"intervalStart": 13,
 		"intervalEnd": 17,
 		"class": "Economy Premium",
-		"destination": "New York"
+		"destination": "New York",
+		"abbr": "JFK"
 	},
 	{
 		"id": 10,
@@ -157,7 +166,8 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"destination": "Thailand"
+		"destination": "Thailand",
+		"abbr": "BKK"
 	},
 	{
 		"id": 11,
@@ -173,7 +183,8 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"destination": "Thailand"
+		"destination": "Thailand",
+		"abbr": "BKK"
 	},
 	{
 		"id": 12,
@@ -189,6 +200,7 @@
 		"intervalStart": 16,
 		"intervalEnd": 21,
 		"class": "First Class",
-		"destination": "Thailand"
+		"destination": "Thailand",
+		"abbr": "BKK"
 	}
 ]
