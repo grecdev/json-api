@@ -13,7 +13,7 @@
 		"class": "Economy",
 		"departure": "Dubai",
 		"abbr": "DXB",
-		"people": 2
+		"people": 1
 	},
 	{
 		"id": 2,
@@ -29,7 +29,7 @@
 		"class": "Economy",
 		"departure": "Dubai",
 		"abbr": "DXB",
-		"people": 4
+		"people": 2
 	},
 	{
 		"id": 3,
@@ -45,7 +45,7 @@
 		"class": "Economy",
 		"departure": "Dubai",
 		"abbr": "DXB",
-		"people": 4
+		"people": 3
 	},
 	{
 		"id": 4,
@@ -61,7 +61,7 @@
 		"class": "Business",
 		"departure": "Amsterdam",
 		"abbr": "AMS",
-		"people": 3
+		"people": 1
 	},
 	{
 		"id": 5,
@@ -93,7 +93,7 @@
 		"class": "Business",
 		"departure": "Amsterdam",
 		"abbr": "AMS",
-		"people": 1
+		"people": 3
 	},
 	{
 		"id": 7,
@@ -109,7 +109,7 @@
 		"class": "Economy Premium",
 		"departure": "New York",
 		"abbr": "JFK",
-		"people": 4
+		"people": 1
 	},
 	{
 		"id": 8,
@@ -125,7 +125,7 @@
 		"class": "Economy Premium",
 		"departure": "New York",
 		"abbr": "JFK",
-		"people": 1
+		"people": 2
 	},
 	{
 		"id": 9,
@@ -141,7 +141,7 @@
 		"class": "Economy Premium",
 		"departure": "New York",
 		"abbr": "JFK",
-		"people": 1
+		"people": 3
 	},
 	{
 		"id": 10,
@@ -157,7 +157,7 @@
 		"class": "First Class",
 		"departure": "Thailand",
 		"abbr": "BKK",
-		"people": 3
+		"people": 1
 	},
 	{
 		"id": 11,
@@ -173,7 +173,7 @@
 		"class": "First Class",
 		"departure": "Thailand",
 		"abbr": "BKK",
-		"people": 3
+		"people": 2
 	},
 	{
 		"id": 12,
@@ -189,6 +189,6 @@
 		"class": "First Class",
 		"departure": "Thailand",
 		"abbr": "BKK",
-		"people": 2
+		"people": 3
 	}
 ]
