@@ -2,6 +2,7 @@
 	{
 		"id": 1,
 		"airlines": "Tarom",
+		"airlinesLogo": "tarom-airlines-logo.png",
 		"departureMonth": 1,
 		"returningMonth": 3,
 		"intervalStart": 0,
@@ -20,6 +21,7 @@
 	{
 		"id": 2,
 		"airlines": "United Airlines",
+		"airlinesLogo": "united-airlines-logo.png",
 		"departureMonth": 1,
 		"returningMonth": 3,
 		"intervalStart": 0,
@@ -38,6 +40,7 @@
 	{
 		"id": 3,
 		"airlines": "Finnair",
+		"airlinesLogo": "finnair-airlines-logo.png",
 		"departureMonth": 1,
 		"returningMonth": 3,
 		"intervalStart": 0,
@@ -56,6 +59,7 @@
 	{
 		"id": 4,
 		"airlines": "Aeroflot",
+		"airlinesLogo": "aeroflot-airlines-logo.png",
 		"departureMonth": 3,
 		"returningMonth": 1,
 		"intervalStart": 8,
@@ -74,6 +78,7 @@
 	{
 		"id": 5,
 		"airlines": "Tarom",
+		"airlinesLogo": "tarom-airlines-logo.png",
 		"departureMonth": 3,
 		"returningMonth": 1,
 		"intervalStart": 8,
@@ -92,6 +97,7 @@
 	{
 		"id": 6,
 		"airlines": "United Airlines",
+		"airlinesLogo": "united-airlines-logo.png",
 		"departureMonth": 3,
 		"returningMonth": 1,
 		"intervalStart": 8,
@@ -110,6 +116,7 @@
 	{
 		"id": 7,
 		"airlines": "Finnair",
+		"airlinesLogo": "finnair-airlines-logo.png",
 		"departureMonth": 2,
 		"returningMonth": 4,
 		"intervalStart": 12,
@@ -128,6 +135,7 @@
 	{
 		"id": 8,
 		"airlines": "Aeroflot",
+		"airlinesLogo": "aeroflot-airlines-logo.png",
 		"departureMonth": 2,
 		"returningMonth": 4,
 		"intervalStart": 12,
@@ -146,6 +154,7 @@
 	{
 		"id": 9,
 		"airlines": "Tarom",
+		"airlinesLogo": "tarom-airlines-logo.png",
 		"departureMonth": 2,
 		"returningMonth": 4,
 		"intervalStart": 12,
@@ -164,6 +173,7 @@
 	{
 		"id": 10,
 		"airlines": "United Airlines",
+		"airlinesLogo": "united-airlines-logo.png",
 		"departureMonth": 2,
 		"returningMonth": 3,
 		"intervalStart": 4,
@@ -182,6 +192,7 @@
 	{
 		"id": 11,
 		"airlines": "Finnair",
+		"airlinesLogo": "finnair-airlines-logo.png",
 		"departureMonth": 2,
 		"returningMonth": 3,
 		"intervalStart": 4,
@@ -200,6 +211,7 @@
 	{
 		"id": 12,
 		"airlines": "Aeroflot",
+		"airlinesLogo": "aeroflot-airlines-logo.png",
 		"departureMonth": 2,
 		"returningMonth": 3,
 		"intervalStart": 4,
