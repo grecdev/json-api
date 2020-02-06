@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"roomType": "hotel",
+		"roomType": "Hotel",
 		"roomName": "Luxury Room",
 		"destination": "Dubai",
 		"roomFeedback": 3,
@@ -117,7 +117,7 @@
 	},
 	{
 		"id": 3,
-		"roomType": "hotel",
+		"roomType": "Hotel",
 		"roomName": "Single Room",
 		"destination": "Thailand",
 		"roomFeedback": 1,
@@ -272,7 +272,7 @@
 	},
 	{
 		"id": 6,
-		"roomType": "hotel",
+		"roomType": "Hotel",
 		"roomName": "Deluxe Room",
 		"destination": "Amsterdam",
 		"roomFeedback": 2,
@@ -336,7 +336,7 @@
 	},
 	{
 		"id": 7,
-		"roomType": "suite",
+		"roomType": "Suite",
 		"roomName": "Vacation Room",
 		"destination": "Thailand",
 		"roomFeedback": 1,
@@ -400,7 +400,7 @@
 	},
 	{
 		"id": 8,
-		"roomType": "resort",
+		"roomType": "Resort",
 		"roomName": "Caesars Palace",
 		"destination": "New York",
 		"roomFeedback": 2,
