@@ -1,0 +1,652 @@
+[
+	{
+		"id": 1,
+		"propertyType": "house",
+		"propertyStatus": "sale",
+		"propertyPrice": "100.000",
+		"propertyTaxesYear": "7.500",
+		"propertySize": 1562,
+		"addressLocation": "United States",
+		"addressCity": "New York",
+		"latitude": 46.517563,
+		"longitude": -95.374369,
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"yearBuilt": 1950,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"gas",
+				"electricity",
+				"individual gas meter",
+				"watermeter",
+				"closed balcony",
+				"metallic door",
+				"air conditioning",
+				"alarm",
+				"PVC Windows",
+				"fireplace",
+				"kitchen bar",
+				"refrigerator",
+				"dish washer"
+			],
+			"exterior": [
+				[
+					"sewerage",
+					"2 parking lots",
+					"Metal roof",
+					"Concrete Block Foundation"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Grecu Alexandru",
+			"email": "someaddres@gmail.com",
+			"number": "123.456.789"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-newyork-1.jpg",
+			"reviewImages": [
+				"property-newyork-1.jpg",
+				"property-newyork-2.jpg",
+				"property-newyork-3.jpg",
+				"property-newyork-4.jpg"
+			]
+		}
+	},
+	{
+		"id": 2,
+		"propertyType": "house",
+		"propertyStatus": "sale",
+		"propertyPrice": "120.000",
+		"propertyTaxesYear": "4.000",
+		"propertySize": 1062,
+		"addressLocation": "United States",
+		"addressCity": "New York",
+		"latitude": 46.520278,
+		"longitude": -95.374756,
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"yearBuilt": 1960,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"gas",
+				"electricity",
+				"watermeter",
+				"wooden door",
+				"air conditioning",
+				"PVC Windows",
+				"refrigerator",
+				"refrigerator",
+				"dish washer"
+			],
+			"exterior": [
+				[
+					"sewerage",
+					"Wooden roof",
+					"Pile Foundation"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Bill Gates",
+			"email": "someaddres@gmail.com",
+			"number": "987.654.321"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-newyork-5.jpg",
+			"reviewImages": [
+				"property-newyork-5.jpg",
+				"property-newyork-6.jpg",
+				"property-newyork-7.jpg",
+				"property-newyork-8.jpg"
+			]
+		}
+	},
+	{
+		"id": 3,
+		"propertyType": "Cottage",
+		"propertyStatus": "sale",
+		"propertyPrice": "130.000",
+		"propertyTaxesYear": "2.000",
+		"propertySize": 862,
+		"addressLocation": "United States",
+		"addressCity": "New York",
+		"latitude": 38.015565,
+		"longitude": -121.941259,
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"yearBuilt": 2000,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"gas",
+				"electricity",
+				"watermeter",
+				"brick door",
+				"air conditioning",
+				"PVC Windows",
+				"refrigerator",
+				"jacuzzi",
+				"garage"
+			],
+			"exterior": [
+				[
+					"sewerage",
+					"Slate roof",
+					"Stone Foundation",
+					"pool"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Mark Zuckerberg",
+			"email": "facebook@gmail.com",
+			"number": "143.757.452"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-newyork-9.jpg",
+			"reviewImages": [
+				"property-newyork-9.jpg",
+				"property-newyork-10.jpg",
+				"property-newyork-11.jpg",
+				"property-newyork-12.jpg"
+			]
+		}
+	},
+	{
+		"id": 4,
+		"propertyType": "residential",
+		"propertyStatus": "rent",
+		"propertyPrice": "200.000",
+		"propertyTaxesYear": "10.000",
+		"propertyRent": "400",
+		"propertySize": 3452,
+		"addressLocation": "United States",
+		"addressCity": "Los Angeles",
+		"latitude": 34.037089,
+		"longitude": -118.344879,
+		"bedrooms": 7,
+		"bathrooms": 5,
+		"yearBuilt": 2010,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"gas",
+				"electricity",
+				"watermeter",
+				"iron door",
+				"air conditioning",
+				"PVC Windows",
+				"refrigerator",
+				"2 balconies",
+				"fireplace",
+				"kitchen bar",
+				"refrigerator",
+				"dish washer",
+				"individual gas meter"
+			],
+			"exterior": [
+				[
+					"sewerage",
+					"1 parking lot",
+					"Slate roof",
+					"Stone Foundation",
+					"driveway"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "James Smith",
+			"email": "jamessmith@gmail.com",
+			"number": "777.777.777"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-losangeles-1.jpg",
+			"reviewImages": [
+				"property-losangeles-1.jpg",
+				"property-losangeles-2.jpg",
+				"property-losangeles-3.jpg",
+				"property-losangeles-4.jpg"
+			]
+		}
+	},
+	{
+		"id": 5,
+		"propertyType": "vacant land",
+		"propertyStatus": "rent",
+		"propertyPrice": "350.000",
+		"propertyTaxesYear": "3.000",
+		"propertyRent": "700",
+		"propertySize": 2452,
+		"addressLocation": "United States",
+		"addressCity": "Los Angeles",
+		"latitude": 34.041975,
+		"longitude": -118.303662,
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"yearBuilt": 2020,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"gas",
+				"electricity",
+				"watermeter",
+				"iron door",
+				"air conditioning",
+				"Normal Windows",
+				"refrigerator",
+				"refrigerator",
+				"dish washer",
+				"individual gas meter"
+			],
+			"exterior": [
+				[
+					"sewerage",
+					"2 parking lot",
+					"Brick roof",
+					"Metal Foundation",
+					"driveway"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Maria Garcia",
+			"email": "mariagarcia@gmail.com",
+			"number": "222.222.222"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-losangeles-5.jpg",
+			"reviewImages": [
+				"property-losangeles-5.jpg",
+				"property-losangeles-6.jpg",
+				"property-losangeles-7.jpg",
+				"property-losangeles-8.jpg"
+			]
+		}
+	},
+	{
+		"id": 6,
+		"propertyType": "Townhomes",
+		"propertyStatus": "rent",
+		"propertyPrice": "800.000",
+		"propertyTaxesYear": "200",
+		"propertyRent": "650",
+		"propertySize": 500,
+		"addressLocation": "United States",
+		"addressCity": "Los Angeles",
+		"latitude": 34.041932,
+		"longitude": -118.373539,
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"yearBuilt": 2005,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"gas",
+				"electricity",
+				"watermeter",
+				"metal door",
+				"air conditioning",
+				"dining bars",
+				"Warming drawers",
+				"wine refrigerators",
+				"trash compactors",
+				"indoor garage",
+				"Built-In Range",
+				"Built-In Oven",
+				"Dishwasher",
+				"Exhaust Fan",
+				"Disposal",
+				"Gas Oven",
+				"Gas Range",
+				"Refrigerator",
+				"Range Hood",
+				"Water Purifier",
+				"fireplace",
+				"Floor Coverings"
+			],
+			"exterior": [
+				[
+					"rock roof",
+					"log foundation",
+					"driveway",
+					"steam room",
+					"Security System",
+					"Deck",
+					"Water Fountain"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "David Smith",
+			"email": "davidsmith@gmail.com",
+			"number": "333.111.444"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-losangeles-9.jpg",
+			"reviewImages": [
+				"property-losangeles-9.jpg",
+				"property-losangeles-10.jpg",
+				"property-losangeles-11.jpg",
+				"property-losangeles-12.jpg"
+			]
+		}
+	},
+	{
+		"id": 7,
+		"propertyType": "Country",
+		"propertyStatus": "sale",
+		"propertyPrice": "550.000",
+		"propertyTaxesYear": "6.500",
+		"propertySize": 7539,
+		"addressLocation": "United States",
+		"addressCity": "Boston",
+		"latitude": 42.675400,
+		"longitude": -78.701892,
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"yearBuilt": 2003,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"Window shutters",
+				"Solar heat",
+				"Solar plumbing",
+				"Solar Screens",
+				"Storm windows",
+				"Stone/tile surfaces",
+				"Outside access",
+				"Skylights",
+				"Heated floors"
+			],
+			"exterior": [
+				[
+					"Courtyard",
+					"Patio: Covered or uncovered",
+					"Deck",
+					"Tennis courts",
+					"Trees and landscaping",
+					"Gardens"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "James Johnson",
+			"email": "jamesjohnson@gmail.com",
+			"number": "341.989.2341"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-boston-1.jpg",
+			"reviewImages": [
+				"property-boston-1.jpg",
+				"property-boston-2.jpg",
+				"property-boston-3.jpg",
+				"property-boston-4.jpg"
+			]
+		}
+	},
+	{
+		"id": 8,
+		"propertyType": "Bungalow",
+		"propertyStatus": "sale",
+		"propertyPrice": "420.000",
+		"propertyTaxesYear": "7.500",
+		"propertySize": 4339,
+		"addressLocation": "United States",
+		"addressCity": "Boston",
+		"latitude": 42.630480,
+		"longitude": -78.738155,
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"yearBuilt": 1900,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"Window shutters",
+				"Solar heat",
+				"Solar plumbing",
+				"Solar Screens",
+				"Storm windows",
+				"Stone/tile surfaces",
+				"2 Balconies",
+				"Skylights",
+				"Dining/family combination",
+				"Stone floors"
+			],
+			"exterior": [
+				[
+					"Fireplace or fire pit",
+					"Built-in BBQ",
+					"Sauna",
+					"Courtyard",
+					"Trees and landscaping"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Bob Smith",
+			"email": "bobsmith@gmail.com",
+			"number": "612.125.132"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-boston-5.jpg",
+			"reviewImages": [
+				"property-boston-5.jpg",
+				"property-boston-6.jpg",
+				"property-boston-7.jpg",
+				"property-boston-8.jpg"
+			]
+		}
+	},
+	{
+		"id": 9,
+		"propertyType": "Bungalow",
+		"propertyStatus": "sale",
+		"propertyPrice": "300.000",
+		"propertyTaxesYear": "4.030",
+		"propertySize": 2012,
+		"addressLocation": "United States",
+		"addressCity": "Boston",
+		"latitude": 42.636896,
+		"longitude": -78.739303,
+		"bedrooms": 10,
+		"bathrooms": 5,
+		"yearBuilt": 1990,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"glass and wooden floors",
+				"ceiling library",
+				"secret treehouse play room",
+				"stained-glass door",
+				"bathroom moss wall",
+				"wood log tables"
+			],
+			"exterior": [
+				[
+					"fireplace or fire pit",
+					"built-in BBQ",
+					"sauna",
+					"courtyard",
+					"ornamental stones",
+					"porches"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Grec Smith",
+			"email": "grecsmith@gmail.com",
+			"number": "432.754.999"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-boston-9.jpg",
+			"reviewImages": [
+				"property-boston-9.jpg",
+				"property-boston-10.jpg",
+				"property-boston-11.jpg",
+				"property-boston-12.jpg"
+			]
+		}
+	},
+	{
+		"id": 10,
+		"propertyType": "Bungalow",
+		"propertyStatus": "sale",
+		"propertyPrice": "100.000.000",
+		"propertyTaxesYear": "4.030",
+		"propertySize": 2005,
+		"addressLocation": "United States",
+		"addressCity": "San Francisco",
+		"latitude": 37.755288,
+		"longitude": -122.469473,
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"yearBuilt": 2003,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"glass and wooden floors",
+				"ceiling library",
+				"secret treehouse play room",
+				"stained-glass door",
+				"bathroom moss wall",
+				"wood log tables"
+			],
+			"exterior": [
+				[
+					"fireplace or fire pit",
+					"built-in BBQ",
+					"sauna",
+					"courtyard",
+					"ornamental stones",
+					"porches"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Sarah Smith",
+			"email": "sarahsmith@gmail.com",
+			"number": "542.322.875"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-sanfrancisco-1.jpg",
+			"reviewImages": [
+				"property-sanfrancisco-1.jpg",
+				"property-sanfrancisco-2.jpg",
+				"property-sanfrancisco-3.jpg",
+				"property-sanfrancisco-4.jpg"
+			]
+		}
+	},
+	{
+		"id": 11,
+		"propertyType": "Villa",
+		"propertyStatus": "sale",
+		"propertyPrice": "1.000.000",
+		"propertyTaxesYear": "32.030",
+		"propertySize": 10142,
+		"addressLocation": "United States",
+		"addressCity": "San Francisco",
+		"latitude": 37.753320,
+		"longitude": -122.477485,
+		"bedrooms": 6,
+		"bathrooms": 3,
+		"yearBuilt": 2006,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"glass and wooden floors",
+				"ceiling library",
+				"secret treehouse play room",
+				"stained-glass door",
+				"bathroom moss wall",
+				"wood log tables",
+				"gas",
+				"electricity",
+				"individual gas meter",
+				"watermeter",
+				"closed balcony",
+				"metallic door",
+				"air conditioning"
+			],
+			"exterior": [
+				[
+					"fireplace or fire pit",
+					"built-in BBQ",
+					"sauna",
+					"courtyard",
+					"ornamental stones",
+					"porches"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "James Smith",
+			"email": "jamesSmith@gmail.com",
+			"number": "765.534.111"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-sanfrancisco-5.jpg",
+			"reviewImages": [
+				"property-sanfrancisco-5.jpg",
+				"property-sanfrancisco-6.jpg",
+				"property-sanfrancisco-7.jpg",
+				"property-sanfrancisco-8.jpg"
+			]
+		}
+	},
+	{
+		"id": 12,
+		"propertyType": "Duplex",
+		"propertyStatus": "sale",
+		"propertyPrice": "5.000.000",
+		"propertyTaxesYear": "52.030",
+		"propertySize": 8922,
+		"addressLocation": "United States",
+		"addressCity": "San Francisco",
+		"latitude": 37.753320,
+		"longitude": -122.477485,
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"yearBuilt": 2019,
+		"propertyDescription": "Spicy jalapeno corned beef consequat cow burgdoggen frankfurter minim pork belly culpa ipsum anim veniam brisket filet mignon. Venison pork loin ball tip kevin pariatur landjaeger swine in qui turkey flank. Ea beef ribs tempor excepteur pork belly biltong non beef laboris hamburger. Culpa doner swine deserunt ut. Buffalo pork chop venison short loin, esse magna quis officia duis consectetur alcatra ipsum porchetta. Culpa frankfurter in esse boudin. Pariatur rump beef ribs, flank incididunt aute ut biltong.",
+		"features": {
+			"interior": [
+				"glass and wooden floors",
+				"ceiling library",
+				"secret treehouse play room",
+				"stained-glass door",
+				"individual gas meter",
+				"watermeter",
+				"closed balcony",
+				"metallic door",
+				"air conditioning"
+			],
+			"exterior": [
+				[
+					"fireplace or fire pit",
+					"sauna",
+					"courtyard",
+					"ornamental stones",
+					"porches"
+				]
+			]
+		},
+		"listingAgent": {
+			"name": "Will Smith",
+			"email": "willsmith@gmail.com",
+			"number": "555.444.333"
+		},
+		"propertyImages": {
+			"showcaseImage": "property-sanfrancisco-9.jpg",
+			"reviewImages": [
+				"property-sanfrancisco-9.jpg",
+				"property-sanfrancisco-10.jpg",
+				"property-sanfrancisco-11.jpg",
+				"property-sanfrancisco-12.jpg"
+			]
+		}
+	}
+]
