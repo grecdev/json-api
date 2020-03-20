@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"propertyType": "house",
-		"propertyStatus": "sale",
+		"propertyStatus": "buy",
 		"propertyPrice": "100000",
 		"propertyTaxesYear": "7500",
 		"propertySize": 1562,
@@ -106,7 +106,7 @@
 	{
 		"id": 3,
 		"propertyType": "Cottage",
-		"propertyStatus": "sale",
+		"propertyStatus": "buy",
 		"propertyPrice": "130000",
 		"propertyTaxesYear": "2000",
 		"propertySize": 862,
@@ -212,7 +212,7 @@
 	{
 		"id": 5,
 		"propertyType": "vacant land",
-		"propertyStatus": "sale",
+		"propertyStatus": "buy",
 		"propertyPrice": "350000",
 		"propertyTaxesYear": "3000",
 		"propertySize": 2452,
@@ -331,7 +331,7 @@
 	{
 		"id": 7,
 		"propertyType": "Country",
-		"propertyStatus": "sale",
+		"propertyStatus": "buy",
 		"propertyPrice": "550000",
 		"propertyTaxesYear": "6500",
 		"propertySize": 7539,
@@ -436,7 +436,7 @@
 	{
 		"id": 9,
 		"propertyType": "Bungalow",
-		"propertyStatus": "sale",
+		"propertyStatus": "buy",
 		"propertyPrice": "300000",
 		"propertyTaxesYear": "4030",
 		"propertySize": 2012,
@@ -535,7 +535,7 @@
 	{
 		"id": 11,
 		"propertyType": "Villa",
-		"propertyStatus": "sale",
+		"propertyStatus": "buy",
 		"propertyPrice": "1000000",
 		"propertyTaxesYear": "32030",
 		"propertySize": 10142,
