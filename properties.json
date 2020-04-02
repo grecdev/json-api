@@ -33,12 +33,10 @@
 				"dish washer"
 			],
 			"exterior": [
-				[
-					"sewerage",
-					"2 parking lots",
-					"Metal roof",
-					"Concrete Block Foundation"
-				]
+				"sewerage",
+				"2 parking lots",
+				"Metal roof",
+				"Concrete Block Foundation"
 			]
 		},
 		"listingAgent": {
@@ -85,11 +83,9 @@
 				"dish washer"
 			],
 			"exterior": [
-				[
-					"sewerage",
-					"Wooden roof",
-					"Pile Foundation"
-				]
+				"sewerage",
+				"Wooden roof",
+				"Pile Foundation"
 			]
 		},
 		"listingAgent": {
@@ -137,12 +133,10 @@
 				"garage"
 			],
 			"exterior": [
-				[
-					"sewerage",
-					"Slate roof",
-					"Stone Foundation",
-					"pool"
-				]
+				"sewerage",
+				"Slate roof",
+				"Stone Foundation",
+				"pool"
 			]
 		},
 		"listingAgent": {
@@ -193,13 +187,11 @@
 				"individual gas meter"
 			],
 			"exterior": [
-				[
-					"sewerage",
-					"1 parking lot",
-					"Slate roof",
-					"Stone Foundation",
-					"driveway"
-				]
+				"sewerage",
+				"1 parking lot",
+				"Slate roof",
+				"Stone Foundation",
+				"driveway"
 			]
 		},
 		"listingAgent": {
@@ -247,13 +239,11 @@
 				"individual gas meter"
 			],
 			"exterior": [
-				[
-					"sewerage",
-					"2 parking lot",
-					"Brick roof",
-					"Metal Foundation",
-					"driveway"
-				]
+				"sewerage",
+				"2 parking lot",
+				"Brick roof",
+				"Metal Foundation",
+				"driveway"
 			]
 		},
 		"listingAgent": {
@@ -314,15 +304,13 @@
 				"Floor Coverings"
 			],
 			"exterior": [
-				[
-					"rock roof",
-					"log foundation",
-					"driveway",
-					"steam room",
-					"Security System",
-					"Deck",
-					"Water Fountain"
-				]
+				"rock roof",
+				"log foundation",
+				"driveway",
+				"steam room",
+				"Security System",
+				"Deck",
+				"Water Fountain"
 			]
 		},
 		"listingAgent": {
@@ -369,14 +357,12 @@
 				"Heated floors"
 			],
 			"exterior": [
-				[
-					"Courtyard",
-					"Patio: Covered or uncovered",
-					"Deck",
-					"Tennis courts",
-					"Trees and landscaping",
-					"Gardens"
-				]
+				"Courtyard",
+				"Patio: Covered or uncovered",
+				"Deck",
+				"Tennis courts",
+				"Trees and landscaping",
+				"Gardens"
 			]
 		},
 		"listingAgent": {
@@ -424,13 +410,11 @@
 				"Stone floors"
 			],
 			"exterior": [
-				[
-					"Fireplace or fire pit",
-					"Built-in BBQ",
-					"Sauna",
-					"Courtyard",
-					"Trees and landscaping"
-				]
+				"Fireplace or fire pit",
+				"Built-in BBQ",
+				"Sauna",
+				"Courtyard",
+				"Trees and landscaping"
 			]
 		},
 		"listingAgent": {
@@ -474,14 +458,12 @@
 				"wood log tables"
 			],
 			"exterior": [
-				[
-					"fireplace or fire pit",
-					"built-in BBQ",
-					"sauna",
-					"courtyard",
-					"ornamental stones",
-					"porches"
-				]
+				"fireplace or fire pit",
+				"built-in BBQ",
+				"sauna",
+				"courtyard",
+				"ornamental stones",
+				"porches"
 			]
 		},
 		"listingAgent": {
@@ -525,14 +507,12 @@
 				"wood log tables"
 			],
 			"exterior": [
-				[
-					"fireplace or fire pit",
-					"built-in BBQ",
-					"sauna",
-					"courtyard",
-					"ornamental stones",
-					"porches"
-				]
+				"fireplace or fire pit",
+				"built-in BBQ",
+				"sauna",
+				"courtyard",
+				"ornamental stones",
+				"porches"
 			]
 		},
 		"listingAgent": {
@@ -583,14 +563,12 @@
 				"air conditioning"
 			],
 			"exterior": [
-				[
-					"fireplace or fire pit",
-					"built-in BBQ",
-					"sauna",
-					"courtyard",
-					"ornamental stones",
-					"porches"
-				]
+				"fireplace or fire pit",
+				"built-in BBQ",
+				"sauna",
+				"courtyard",
+				"ornamental stones",
+				"porches"
 			]
 		},
 		"listingAgent": {
@@ -637,13 +615,11 @@
 				"air conditioning"
 			],
 			"exterior": [
-				[
-					"fireplace or fire pit",
-					"sauna",
-					"courtyard",
-					"ornamental stones",
-					"porches"
-				]
+				"fireplace or fire pit",
+				"sauna",
+				"courtyard",
+				"ornamental stones",
+				"porches"
 			]
 		},
 		"listingAgent": {
