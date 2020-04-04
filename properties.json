@@ -42,7 +42,8 @@
 		"listingAgent": {
 			"name": "Grecu Alexandru",
 			"email": "someaddres@gmail.com",
-			"number": "123.456.789"
+			"number": "123.456.789",
+			"avatar": "avatar-1.jpeg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-newyork-1.jpg",
@@ -91,7 +92,8 @@
 		"listingAgent": {
 			"name": "Bill Gates",
 			"email": "someaddres@gmail.com",
-			"number": "987.654.321"
+			"number": "987.654.321",
+			"avatar": "avatar-2.jpeg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-newyork-5.jpg",
@@ -142,7 +144,8 @@
 		"listingAgent": {
 			"name": "Mark Zuckerberg",
 			"email": "facebook@gmail.com",
-			"number": "143.757.452"
+			"number": "143.757.452",
+			"avatar": "avatar-3.jpeg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-newyork-9.jpg",
@@ -197,7 +200,8 @@
 		"listingAgent": {
 			"name": "James Smith",
 			"email": "jamessmith@gmail.com",
-			"number": "777.777.777"
+			"number": "777.777.777",
+			"avatar": "avatar-4.jpeg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-losangeles-1.jpg",
@@ -249,7 +253,8 @@
 		"listingAgent": {
 			"name": "Maria Garcia",
 			"email": "mariagarcia@gmail.com",
-			"number": "222.222.222"
+			"number": "222.222.222",
+			"avatar": "avatar-5.jpeg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-losangeles-5.jpg",
@@ -316,7 +321,8 @@
 		"listingAgent": {
 			"name": "David Smith",
 			"email": "davidsmith@gmail.com",
-			"number": "333.111.444"
+			"number": "333.111.444",
+			"avatar": "avatar-6.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-losangeles-9.jpg",
@@ -368,7 +374,8 @@
 		"listingAgent": {
 			"name": "James Johnson",
 			"email": "jamesjohnson@gmail.com",
-			"number": "341.989.2341"
+			"number": "341.989.2341",
+			"avatar": "avatar-7.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-boston-1.jpg",
@@ -420,7 +427,8 @@
 		"listingAgent": {
 			"name": "Bob Smith",
 			"email": "bobsmith@gmail.com",
-			"number": "612.125.132"
+			"number": "612.125.132",
+			"avatar": "avatar-8.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-boston-5.jpg",
@@ -469,7 +477,8 @@
 		"listingAgent": {
 			"name": "Grec Smith",
 			"email": "grecsmith@gmail.com",
-			"number": "432.754.999"
+			"number": "432.754.999",
+			"avatar": "avatar-9.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-boston-9.jpg",
@@ -518,7 +527,8 @@
 		"listingAgent": {
 			"name": "Sarah Smith",
 			"email": "sarahsmith@gmail.com",
-			"number": "542.322.875"
+			"number": "542.322.875",
+			"avatar": "avatar-10.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-sanfrancisco-1.jpg",
@@ -574,7 +584,8 @@
 		"listingAgent": {
 			"name": "James Smith",
 			"email": "jamesSmith@gmail.com",
-			"number": "765.534.111"
+			"number": "765.534.111",
+			"avatar": "avatar-11.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-sanfrancisco-5.jpg",
@@ -625,7 +636,8 @@
 		"listingAgent": {
 			"name": "Will Smith",
 			"email": "willsmith@gmail.com",
-			"number": "555.444.333"
+			"number": "555.444.333",
+			"avatar": "avatar-12.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-sanfrancisco-9.jpg",
