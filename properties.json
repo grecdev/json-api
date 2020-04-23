@@ -43,7 +43,7 @@
 			"name": "Grecu Alexandru",
 			"email": "someaddres@gmail.com",
 			"number": "123.456.789",
-			"avatar": "avatar-1.jpeg"
+			"avatar": "avatar-1.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-newyork-1.jpg",
@@ -93,7 +93,7 @@
 			"name": "Bill Gates",
 			"email": "someaddres@gmail.com",
 			"number": "987.654.321",
-			"avatar": "avatar-2.jpeg"
+			"avatar": "avatar-2.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-newyork-5.jpg",
@@ -145,7 +145,7 @@
 			"name": "Mark Zuckerberg",
 			"email": "facebook@gmail.com",
 			"number": "143.757.452",
-			"avatar": "avatar-3.jpeg"
+			"avatar": "avatar-3.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-newyork-9.jpg",
@@ -201,7 +201,7 @@
 			"name": "James Smith",
 			"email": "jamessmith@gmail.com",
 			"number": "777.777.777",
-			"avatar": "avatar-4.jpeg"
+			"avatar": "avatar-4.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-losangeles-1.jpg",
@@ -254,7 +254,7 @@
 			"name": "Maria Garcia",
 			"email": "mariagarcia@gmail.com",
 			"number": "222.222.222",
-			"avatar": "avatar-5.jpeg"
+			"avatar": "avatar-5.jpg"
 		},
 		"propertyImages": {
 			"showcaseImage": "property-losangeles-5.jpg",
