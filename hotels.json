@@ -223,7 +223,7 @@
       "transportation": [
         "Airport / Railway station transportation (surcharge)"
       ],
-      "front-desk/receptionAreaServices": [
+      "frontDesk_receptionAreaServices": [
         "Luggage storage",
         "Full-service spa"
       ],
