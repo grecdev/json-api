@@ -1,0 +1,149 @@
+{
+  "laptops": [
+    {
+      "id": 1,
+      "price": 500,
+      "stock": 3,
+      "feedback": 4,
+      "main_images": ["acer-1.png", "acer-2.png", "acer-3.png", "acer-4.png"],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["cpu-acer-1.png", "os-acer-1.png"]
+      },
+      "technical_details": {
+        "screen_type": "LED",
+        "screen_size": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "screen_format": "Full HD",
+        "processor": "ryzen 7",
+        "graphics_processor": "NVIDIA GeForce GTX 1060",
+        "graphics_card_ram": 6,
+        "operating_system": "windows 7",
+        "usb_ports": 3,
+        "brand": "Acer",
+        "hard_drive_storage": 400,
+        "hard_drive_rotation_speed": 5400,
+        "hard_drive_type": "HDD",
+        "ram_memory": 6,
+        "ram_memory_type": "DDR4 SDRAM",
+        "numeric_keyboard": "yes",
+        "speakers": "stereo",
+        "speakers_type": "dolby audio premium",
+        "dimensions": "14.30 x 10.80 x 0.80",
+        "optical_drive_type": "not included"
+      }
+    },
+    {
+      "id": 2,
+      "price": 700,
+      "stock": 5,
+      "feedback": 3,
+      "main_images": ["acer-5.png", "acer-6.png", "acer-7.png", "acer-8.png"],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["cpu-acer-2.png", "os-acer-2.png"]
+      },
+      "technical_details": {
+        "screen_type": "LCD / LED",
+        "screen_size": 15.6,
+        "screen_resolution": "1920 x 1080",
+        "screen_format": "Full HD",
+        "processor": "ryzen 9",
+        "graphics_processor": "NVIDIA GeForce GTX 1070ti",
+        "graphics_card_ram": 8,
+        "operating_system": "windows 98",
+        "usb_ports": 4,
+        "brand": "Acer",
+        "hard_drive_storage": 700,
+        "hard_drive_rotation_speed": 6300,
+        "hard_drive_type": "HDD / SDD",
+        "ram_memory": 7,
+        "ram_memory_type": "DDR3 SDRAM",
+        "numeric_keyboard": "yes",
+        "speakers": "stereo",
+        "speakers_type": "eliex audio technologies",
+        "dimensions": "14.10 x 11.00 x 0.50",
+        "optical_drive_type": "not included"
+      }
+    },
+    {
+      "id": 3,
+      "price": 1000,
+      "stock": 2,
+      "feedback": 4,
+      "main_images": [
+        "alienware-1.png",
+        "alienware-2.png",
+        "alienware-3.png",
+        "alienware-4.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["cpu-alienware-1.png", "os-alienware-1.png"]
+      },
+      "technical_details": {
+        "screen_type": "LED",
+        "screen_size": 17,
+        "screen_resolution": "1920 x 1080",
+        "screen_format": "Full HD",
+        "processor": "Intel Core i7",
+        "graphics_processor": "NVIDIA GeForce RTX 2060",
+        "graphics_card_ram": 10,
+        "operating_system": "Windows 10",
+        "usb_ports": 3,
+        "brand": "Alienware",
+        "hard_drive_storage": 1000,
+        "hard_drive_rotation_speed": 5400,
+        "hard_drive_type": "SDD",
+        "ram_memory": 8,
+        "ram_memory_type": "DDR4 SDRAM",
+        "numeric_keyboard": "no",
+        "speakers": "stereo",
+        "speakers_type": "dolby audio premium",
+        "dimensions": "14.15 x 12.00 x 1.50",
+        "optical_drive_type": "CD-RW"
+      }
+    },
+    {
+      "id": 4,
+      "price": 1500,
+      "stock": 4,
+      "feedback": 5,
+      "main_images": [
+        "alienware-5.png",
+        "alienware-6.png",
+        "alienware-7.png",
+        "alienware-8.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["cpu-alienware-2.png", "os-alienware-2.png"]
+      },
+      "technical_details": {
+        "screen_type": "LCD / LED",
+        "screen_size": 15,
+        "screen_resolution": "1920 x 1080",
+        "screen_format": "Full HD / 4k",
+        "processor": "Intel Core i9",
+        "graphics_processor": "NVIDIA GeForce RTX 2080ti",
+        "graphics_card_ram": 16,
+        "operating_system": "Linux",
+        "usb_ports": 4,
+        "brand": "Alienware",
+        "hard_drive_storage": 2000,
+        "hard_drive_rotation_speed": 6400,
+        "hard_drive_type": "HDD / SDD",
+        "ram_memory": 10,
+        "ram_memory_type": "DDR4 SDRAM",
+        "numeric_keyboard": "no",
+        "speakers": "stereo",
+        "speakers_type": "eliex audio technologies",
+        "dimensions": "14 x 10.20 x 0.50",
+        "optical_drive_type": "CD-RW"
+      }
+    }
+  ],
+  "mobile_phones": [],
+  "consoles": [],
+  "console_games": []
+}
