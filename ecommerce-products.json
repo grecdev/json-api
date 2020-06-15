@@ -441,5 +441,100 @@
       }
     }
   ],
-  "console_games": []
+  "console_games": [
+    {
+      "id": 1,
+      "price": 20,
+      "stock": 3,
+      "feedback": 3,
+      "main_images": [
+        "xbox360-game-1.png",
+        "xbox360-game-2.png",
+        "xbox360-game-3.png",
+        "xbox360-game-4.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": [
+          "xbox360-game-description-1.png",
+          "xbox360-game-description-2.png"
+        ]
+      },
+      "technical_details": {
+        "type": "Aventure",
+        "platform": "Xbox 360",
+        "dimensions": "5.3 x 0.5 x 6.7 inches",
+        "weight": "1.5 ounces"
+      }
+    },
+    {
+      "id": 2,
+      "price": 50,
+      "stock": 1,
+      "feedback": 5,
+      "main_images": [
+        "xboxOne-game-1.png",
+        "xboxOne-game-2.png",
+        "xboxOne-game-3.png",
+        "xboxOne-game-4.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": [
+          "xboxOne-game-description-1.png",
+          "xboxOne-game-description-2.png"
+        ]
+      },
+      "technical_details": {
+        "type": "Action",
+        "platform": "Xbox One",
+        "dimensions": "6.7 x 9.2 x 0.6 inches",
+        "weight": "3 ounces"
+      }
+    },
+    {
+      "id": 3,
+      "price": 30,
+      "stock": 2,
+      "feedback": 4,
+      "main_images": [
+        "ps3-game-1.png",
+        "ps3-game-2.png",
+        "ps3-game-3.png",
+        "ps3-game-4.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["ps3-game-description-1.png", "ps3-game-description-2.png"]
+      },
+      "technical_details": {
+        "type": "Action",
+        "platform": "PlayStation 3",
+        "dimensions": "14.5 x 6.8 x 0.6 inches",
+        "weight": "2.4 ounces"
+      }
+    },
+    {
+      "id": 4,
+      "price": 35,
+      "stock": 0,
+      "feedback": 5,
+      "main_images": [
+        "ps4-game-1.png",
+        "ps4-game-2.png",
+        "ps4-game-3.png",
+        "ps4-game-4.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["ps4-game-description-1.png", "ps4-game-description-2.png"]
+      },
+      "technical_details": {
+        "type": "Aventure",
+        "platform": "PlayStation 4",
+        "dimensions": "0.4 x 5.3 x 6.7 inches",
+        "weight": "3.5 ounces"
+      }
+    }
+  ]
 }
