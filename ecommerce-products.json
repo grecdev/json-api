@@ -143,7 +143,180 @@
       }
     }
   ],
-  "mobile_phones": [],
+  "mobile_phones": [
+    {
+      "id": 1,
+      "price": 200,
+      "stock": 1,
+      "feedback": 2,
+      "main_images": [
+        "samsung-j3-1.png",
+        "samsung-j3-2.png",
+        "samsung-j3-3.png",
+        "samsung-j3-4.png"
+      ],
+      "description": {
+        "text": [
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati."
+        ],
+        "images": [
+          "samsung-j3-accessories-1.png",
+          "samsung-j3-accessories-2.png"
+        ]
+      },
+      "technical_details": {
+        "brand": "Samsung",
+        "model": "J3",
+        "display_size": 5,
+        "display_type": "Super AMOLED Capacitive",
+        "display_resolution": "1280 x 720",
+        "dimensions": "142.30 x 71.00 x 7.90",
+        "weight": 138,
+        "rear_camera": 13,
+        "front_camera": 13,
+        "processor": "Exynos 7570",
+        "ram": 2,
+        "internal_storage": 16,
+        "external_storage": "microSD up to 256 GB",
+        "dual_sim": "yes",
+        "finger_print_sensor": "yes",
+        "operating_system": "Android 5.1",
+        "connectivity": "wi-fi / bluetooth / 3g / 4g / LTE",
+        "removable_battery": "no",
+        "battery_capacity": 2600,
+        "color": "black"
+      }
+    },
+    {
+      "id": 2,
+      "price": 800,
+      "stock": 3,
+      "feedback": 3,
+      "main_images": [
+        "samsung-flip-1.png",
+        "samsung-flip-2.png",
+        "samsung-flip-3.png",
+        "samsung-flip-4.png"
+      ],
+      "description": {
+        "text": [
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati."
+        ],
+        "images": [
+          "samsung-flip-accessories-1.png",
+          "samsung-flip-accessories-2.png"
+        ]
+      },
+      "technical_details": {
+        "brand": "Samsung",
+        "model": "Galaxy Z Flip",
+        "display_size": 6.7,
+        "display_type": "Dynamic AMOLED Display",
+        "display_resolution": "2636 x 1080",
+        "dimensions": "73.6 x 87.4 x 17.3 (Folded) / 73.6 x 167.3 x 7.2 (Unfolded)",
+        "weight": 183,
+        "rear_camera": 12,
+        "front_camera": 10,
+        "processor": "Exynos 7570",
+        "ram": 8,
+        "internal_storage": 256,
+        "external_storage": "One eSIM and one Nano SIM",
+        "dual_sim": "yes",
+        "finger_print_sensor": "yes",
+        "operating_system": "Android 10",
+        "connectivity": "wi-fi / bluetooth / 3g / 4g / LTE",
+        "removable_battery": "no",
+        "battery_capacity": 3300,
+        "color": "black"
+      }
+    },
+    {
+      "id": 3,
+      "price": 700,
+      "stock": 4,
+      "feedback": 4,
+      "main_images": [
+        "iphone-eight-1.png",
+        "iphone-eight-2.png",
+        "iphone-eight-3.png",
+        "iphone-eight-4.png"
+      ],
+      "description": {
+        "text": [
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati."
+        ],
+        "images": [
+          "iphone-eight-accessories-1.png",
+          "iphone-eight-accessories-2.png"
+        ]
+      },
+      "technical_details": {
+        "brand": "Apple",
+        "model": "Iphone 8",
+        "display_size": 4.7,
+        "display_type": "Retina HD",
+        "display_resolution": "1334 x 750",
+        "dimensions": "138.4 x 67.3 x 7.3",
+        "weight": 148,
+        "rear_camera": "12 MP",
+        "front_camera": "7 MP",
+        "processor": "Hexa-core (2x Monsoon + 4x Mistral)",
+        "ram": 2,
+        "internal_storage": 64,
+        "external_storage": "no",
+        "dual_sim": "no",
+        "finger_print_sensor": "yes",
+        "operating_system": "iOS 13",
+        "connectivity": "wi-fi / bluetooth / 3g / 4g / LTE",
+        "removable_battery": "no",
+        "battery_capacity": 2675,
+        "color": "gold"
+      }
+    },
+    {
+      "id": 4,
+      "price": 1200,
+      "stock": 1,
+      "feedback": 5,
+      "main_images": [
+        "iphone-pro-1.png",
+        "iphone-pro-2.png",
+        "iphone-pro-3.png",
+        "iphone-pro-4.png"
+      ],
+      "description": {
+        "text": [
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati."
+        ],
+        "images": [
+          "iphone-pro-accessories-1.png",
+          "iphone-pro-accessories-2.png"
+        ]
+      },
+      "technical_details": {
+        "brand": "Apple",
+        "model": "Iphone 11 Pro",
+        "display_size": 5.8,
+        "display_type": "Super Retina XDR display",
+        "display_resolution": "2436 x 1125",
+        "dimensions": "144 x 71 x 8",
+        "weight": 188,
+        "rear_camera": "12 Ultra Wide",
+        "front_camera": 7,
+        "processor": "Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)",
+        "ram": 4,
+        "internal_storage": 512,
+        "external_storage": "no",
+        "dual_sim": "no",
+        "finger_print_sensor": "yes",
+        "operating_system": "iOS 13, upgradable to iOS 13.5",
+        "connectivity": "wi-fi / bluetooth / 3g / 4g / LTE",
+        "removable_battery": "no",
+        "battery_capacity": 3046,
+        "color": "silver"
+      }
+    }
+  ],
   "consoles": [],
   "console_games": []
 }
