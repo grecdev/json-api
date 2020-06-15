@@ -317,6 +317,129 @@
       }
     }
   ],
-  "consoles": [],
+  "consoles": [
+    {
+      "id": 1,
+      "price": 300,
+      "stock": 1,
+      "feedback": 2,
+      "main_images": [
+        "xbox360-1.png",
+        "xbox360-2.png",
+        "xbox360-3.png",
+        "xbox360-4.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["xbox360-accessories.png", "xbox360-brand.jpg"]
+      },
+      "technical_details": {
+        "brand": "Microsoft",
+        "model": "Xbox 360",
+        "storage": "20 GB",
+        "detachable_storage": "Yes, up to 2TB",
+        "cpu": "triple-core Xenon",
+        "gpu": "ATI Xenos",
+        "ram": "512 MB",
+        "ram_type": "GDDR3",
+        "usb_ports": 3,
+        "usb_type": "2.0",
+        "optical_drive": "DVD-ROM",
+        "connectivity": "wi-fi / ethernet port / video camera / HDMI",
+        "audio": "Dolby Digital 5.1 surround sound",
+        "controller_included": "Yes, only one",
+        "color": "black"
+      }
+    },
+    {
+      "id": 2,
+      "price": 500,
+      "stock": 2,
+      "feedback": 3,
+      "main_images": [
+        "xbox-one-1.png",
+        "xbox-one-2.png",
+        "xbox-one-3.png",
+        "xbox-one-4.png"
+      ],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["xboxOne-accessories.png", "xboxOne-brand.jpg"]
+      },
+      "technical_details": {
+        "brand": "Microsoft",
+        "model": "Xbox One",
+        "storage": "2 TB",
+        "replacable_storage": "yes",
+        "cpu": "8 Core AMD",
+        "gpu": "Durango",
+        "ram": "8 GB",
+        "ram_type": "DDR3",
+        "usb_ports": 3,
+        "usb_type": "3.0",
+        "optical_drive": "DVD-ROM / Blu-Ray",
+        "connectivity": "wi-fi / ethernet port / video camera / HDMI",
+        "audio": "Dolby Atmos surround sound",
+        "controller_included": "Yes, only one",
+        "color": "black"
+      }
+    },
+    {
+      "id": 3,
+      "price": 300,
+      "stock": 1,
+      "feedback": 3,
+      "main_images": ["ps3-1.png", "ps3-2.png", "ps3-3.png", "ps3-4.png"],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["ps3-accessories.png", "ps3-brand.jpg"]
+      },
+      "technical_details": {
+        "brand": "Sony",
+        "model": "PlayStation 3",
+        "storage": "160 GB",
+        "replacable_storage": "yes",
+        "cpu": "Cell microprocessor",
+        "gpu": "RSX “Reality Synthesizer”",
+        "ram": "256 MB",
+        "ram_type": "GDDR3",
+        "usb_ports": 4,
+        "usb_type": "2.0",
+        "optical_drive": "DVD-ROM / Blu-Ray",
+        "connectivity": "wi-fi / ethernet port / video camera / HDMI",
+        "audio": "Dolby Digital 5.1",
+        "controller_included": "Yes, only one",
+        "color": "black"
+      }
+    },
+    {
+      "id": 4,
+      "price": 550,
+      "stock": 2,
+      "feedback": 5,
+      "main_images": ["ps4-1.png", "ps4-2.png", "ps4-3.png", "ps4-4.png"],
+      "description": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum assumenda molestias, dolorum voluptas mollitia voluptates maxime ad temporibus inventore vel fuga totam culpa eum, exercitationem blanditiis voluptatibus dignissimos ex eos nostrum eligendi nam error neque! Similique eligendi officia molestias repellendus officiis et eaque ad consequatur harum, laboriosam ducimus reiciendis obcaecati.",
+        "images": ["ps4-accessories.png", "ps4-brand.jpg"]
+      },
+      "technical_details": {
+        "brand": "Sony",
+        "model": "PlayStation 4",
+        "storage": "1 TB",
+        "replacable_storage": "yes",
+        "cpu": "AMD “Jaguar”",
+        "gpu": "AMD Radeon",
+        "ram": "8 GB",
+        "ram_type": "GDDR5",
+        "usb_ports": 3,
+        "usb_type": "3.0",
+        "optical_drive": "DVD-ROM / Blu-Ray",
+        "connectivity": "wi-fi / ethernet port / video camera / HDMI",
+        "audio": "AMD TrueAudio",
+        "controller_included": "Yes, only one",
+        "color": "black"
+      }
+    }
+  ],
   "console_games": []
 }
